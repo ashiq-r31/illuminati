@@ -1,0 +1,89 @@
+/*h1 {
+    color: green;
+    text-align: center;
+}
+
+body {
+	background-image: url("http://cdns.yournewswire.com/wp-content/uploads/2015/02/illuminati-member-reveals-all.jpg");
+	background-size: 1450px;
+}
+
+p {
+	font-size: 26px;
+font-family: Dampfplatz Solid;	
+}*/
+
+.nav-nabil {
+	background-color: green;
+	color:red;
+	text-align: center;
+
+}
+
+.nav-nabil li {
+	list-style: none;
+	display: inline-block;
+	margin-right:50px;
+	font-size:18px;
+}
+
+a ,
+a:visited{
+	color:red;
+}
+
+body {
+	background:
+
+    linear-gradient(
+      rgba(0, 0, 0, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+
+	 url('http://thewallpaper.co/wp-content/uploads/2016/03/illuminati-high-definition-wallpaper-for-desktop-background-download-free-widescreen-desktop-images-artworks-1920x1080-736x459.jpg');
+	 background-size:cover;
+}
+
+
+#Alex_is_a_poooooooop_head {
+	text-align: center;
+	color: red;
+	margin: 10px;
+	padding: 10px;
+	border: solid 10px RED;
+
+}
+.first-container{
+	text-align: center;
+	color: 0E4658;
+	margin: 10px;
+	padding: 10px;
+ 
+}
+
+title{
+	color: red
+}
+
+
+p {
+	color:red;
+}
+
+.wrapper {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+                rgba(0,0,0,0.55) url('	 url('http://thewallpaper.co/wp-content/uploads/2016/03/illuminati-high-definition-wallpaper-for-desktop-background-download-free-widescreen-desktop-images-artworks-1920x1080-736x459.jpg');
+') no-repeat center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    margin: 0;
+    padding: 15px 10px 15px;
+    min-height: 640px;
+}
+
+
+.table tbody td {
+	color: white !important;
+}
